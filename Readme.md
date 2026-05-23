@@ -3,7 +3,7 @@
 
 ### Output(Working Demo)
 
-Once you have sucessfully done every step mentioned below.  
+Once you have successfully done every step mentioned below.
 You can also Play around .
 
 
